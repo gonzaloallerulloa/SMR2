@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+	<head>
+			<title> Horario 2SMR</title>
+	</head>
+
+	<body>
+			<h3>IES RAMÓN ALLER ULLOA</h3>
+			<h3>CURSO:2º SISTEMAS MICROINFORMÁTICOS E REDES</h3>
+			<h3>TITORA: FERNANDEZ SANMIGUEL, CRISTINA</h3>
+			<Table border="1">
+				<tr>
+					<th>L/M/M</th>
+					<th>Luns</th>
+					<th>Martes</th>
+					<th>Mércores</th>
+					<th>Xoves</th>
+					<th>Venres</th>
+					<th>X/V</th>
+				</tr>
+			
+				<tr>
+					<td>8:30-9:20</td>
+					<td>SI</td>
+					<td>SI</td>
+					<td>SR</td>
+					<td>AW</td>
+					<td>SI</td>
+					<td>8:45-9:35</td>
+				</tr>
+				
+				<tr>
+					<td>9:20-10:10</td>
+					<td>SOR</td>
+					<td>SR</td>
+					<td>SOR</td>
+					<td>AW</td>
+					<td>EIES</td>
+					<td>9:35-10:25</td>
+			    </tr>
+				
+				<tr>
+					<td>10:10-11:00</td>
+					<td>SOR</td>
+					<td>SR</td>
+					<td>SOR</td>
+					<td>AW</td>
+					<td>SOR</td>
+					<td>10:25-11:15</td>
+
+				</tr>
+				
+				<tr>
+					<td>11:00-11:50</td>
+					<td>SOR</td>
+					<td>EIES</td>
+					<td>SI</td>
+					<td colspan="2"><strong>RECREO</strong> </td>
+					<td>11:15-12:00</td>										
+				</tr>
+				
+				<tr>
+					<td >11:50-12:10</td>
+
+					<td colspan="3"><strong>RECREO</strong></td>										
+					<td>SOR</td>
+					<td>SR</td>
+					<td>12:00-12:50</td>              
+				</tr>
+				
+				<tr>
+					<td>12:10-13:00</td>
+					<td>SR</td>
+					<td>EIES</td>
+					<td>SI</td>
+					<td>SOR</td>
+					<td>SR</td>
+					<td>12:50-13:40</td>
+				</tr>
+				
+				<tr>
+					<td>13:00-13:50</td>
+					<td>SR</td>
+					<td>AW</td>
+					<td>AW</td>
+					<td>SOR</td>
+					<td>SR</td>
+					<td>13:40:14:30</td>
+
+				</tr>
+				
+				<tr>
+					<td>13:50:14:40</td>
+					<td>SR</td>
+					<td>AW</td>
+					<td>AW</td>
+					<td></td>
+					<td></td>
+					<td>------------------</td>
+					
+				</tr>
+
+                <tr>
+                    <td></td>
+                    <td colspan="5"><strong>DESCANSO PARA COMER</strong></td>	
+            </tr>
+
+			</Table>
+	<body>
+		
+				
+</html>			
